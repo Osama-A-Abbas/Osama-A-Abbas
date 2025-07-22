@@ -80,8 +80,9 @@ I'm a passionate backend developer and software engineer with a touch of DevOps.
 
 ### 🌱 Currently Exploring
 - 🐳 Docker & Containerization
-- 🔁 GitHub Actions & CI/CD
-- 🚀 Auto-Deployment workflows
+- 🔁 GitHub Actions & CI/CD ✅
+- 🚀 Auto-Deployment workflows ✅
+- React & TypeScript 
 
 ---
 
