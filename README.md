@@ -14,7 +14,7 @@ I'm a passionate backend developer and software engineer with a touch of DevOps.
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Blade](https://img.shields.io/badge/-Blade-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
 ![Filament](https://img.shields.io/badge/-Filament-EF4444?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/-React-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-25A162?style=for-the-badge&logo=apachespark&logoColor=white)
 
 #### 🧠 Programming Languages
