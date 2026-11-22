@@ -113,7 +113,7 @@ I'm a passionate backend developer and software engineer with a touch of DevOps.
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/osama-ali-abbas/)
 - 📧 osamaabbaswo@gmail.com
-- 🌐 Website: [osama-a-abbas-portfolio.vercel.app](https://osama-a-abbas-portfolio.vercel.app/)
+- 🌐 Website: [osama-abbas.vercel.app](https://osama-abbas.vercel.app/)
 
 ---
 
